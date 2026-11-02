@@ -2386,9 +2386,9 @@ const A0 = (t) => /* @__PURE__ */ e("svg", { viewBox: "0 0 24 24", fill: "curren
       /* @__PURE__ */ e("span", { className: "df-heart", "aria-hidden": "true", children: "♡" })
     ] }),
     /* @__PURE__ */ i("ul", { className: "df-links", style: { width: "100%", marginTop: "0.3rem" }, children: [
-      /* @__PURE__ */ e("li", { children: /* @__PURE__ */ i("a", { className: "df-link", href: "mailto:ishikarathod231008@acropolis.in", children: [
+      /* @__PURE__ */ e("li", { children: /* @__PURE__ */ i("a", { className: "df-link", href: "mailto:ishikarathod999@gmail.com", children: [
         /* @__PURE__ */ e($0, {}),
-        " ishikarathod231008@acropolis.in"
+        " ishikarathod999@gmail.com"
       ] }) }),
       /* @__PURE__ */ e("li", { children: /* @__PURE__ */ i("a", { className: "df-link", href: "https://www.linkedin.com/in/ishika-rathod-90449a326", target: "_blank", rel: "noreferrer", children: [
         /* @__PURE__ */ e(O0, {}),
