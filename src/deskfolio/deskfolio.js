@@ -2199,7 +2199,7 @@ const A0 = (t) => /* @__PURE__ */ e("svg", { viewBox: "0 0 24 24", fill: "curren
       /* @__PURE__ */ e("li", { className: "df-tag", children: "Location: Indore, MP" })
     ] }),
     /* @__PURE__ */ i("div", { style: { marginTop: "0.4rem" }, children: [
-      /* @__PURE__ */ i("a", { href: "ISHIKA Resume.pdf", download: "ISHIKA_Resume.pdf", target: "_blank", className: "df-btn-resume", children: [
+      /* @__PURE__ */ i("a", { href: "IshikaRathod_Resume.pdf", download: "IshikaRathod_Resume.pdf", target: "_blank", className: "df-btn-resume", children: [
         "📄 Download Resume"
       ] })
     ] })
